@@ -114,6 +114,7 @@ set /p pass=Login code:
 if %pass% == 87654321 start UI.bat
 if %pass% == 69696969 start UI.bat
 if %pass% == 12345678 start UI.bat
+if %pass% == 05112003 start UI.bat
 exit
 :UFF
 echo wrong/invalid code
