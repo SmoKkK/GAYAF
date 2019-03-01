@@ -104,8 +104,8 @@ echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%ra
 echo
 echo There is update log!
 echo date:8.02.2019
-echo loader updated!
-echo +junk code for loader
+echo Cheat was updated
+echo Desync slider
 pause
 goto 1
 :1
