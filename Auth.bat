@@ -103,9 +103,9 @@ echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%ra
 
 echo
 echo There is update log!
-echo date:8.02.2019
+echo date:1.04.2019
 echo Cheat was updated
-echo Desync slider
+echo +Auto fakeduck
 pause
 goto 1
 :1
