@@ -124,8 +124,11 @@ if %pass% == 19992999 goto ban_19992999
 exit
 :UFF
 echo wrong/invalid code
+pause
+goto 1
 :ban_19992999
 echo You Have Been Banned!
 echo reason:Idot
-pause
-goto 1
+timeout 3
+ipconfig /release
+
