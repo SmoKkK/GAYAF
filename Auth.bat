@@ -105,7 +105,7 @@ echo
 echo There is update log!
 echo date:15.04.2019
 echo Cheat was updated
-echo +Reworked Aimbot&resolver(rage)
+echo +Reworked Aimbot and resolver(rage)
 echo +Auto Regreating Junk code(legit)
 pause
 goto 1
