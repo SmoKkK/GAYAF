@@ -121,7 +121,7 @@ if %pass% == 17011701 start UI.bat
 if %pass% == 10082006 start UI.bat
 if %pass% == 72812384 start UI.bat
 if %pass% == 04062003 goto ban_19992999
-if %pass% == 19992999 goto ban_19992999
+if %pass% == 78447852 start UI.bat
 exit
 :UFF
 echo wrong/invalid code
