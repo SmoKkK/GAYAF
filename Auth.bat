@@ -103,10 +103,10 @@ echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%ra
 
 echo
 echo There is update log!
-echo date:15.04.2019
+echo date:30.04.2019
 echo Cheat was updated
-echo +Reworked Aimbot and resolver(rage)
-echo +Auto Regreating Junk code(legit)
+echo Reverse head Ajustents
+echo Slowwalk added!
 pause
 goto 1
 :1
