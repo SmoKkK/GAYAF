@@ -103,9 +103,9 @@ echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%ra
 
 echo
 echo There is update log!
-echo date:2.05.2019
+echo date:23.05.2019
 echo Cheat was updated
-echo Semi fixed(only chams don't work)
+echo Fixed
 pause
 goto 1
 :1
