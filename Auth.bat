@@ -103,9 +103,14 @@ echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%ra
 
 echo
 echo There is update log!
-echo date:23.05.2019
+echo date:26.05.2019
 echo Cheat was updated
-echo Fixed
+echo The V2 Is Out!
+echo to Many thing Added/Modified,i will say only the big ones
+echo Now cfg Path is in Documents/Harmful
+echo Muuuuuuuch better Legit Bot
+echo Muuch better Legitbot
+echu Arfer this update,a popup will appear,if u close it,it crashes,thered will appear the new updates!!
 pause
 goto 1
 :1
