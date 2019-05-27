@@ -110,7 +110,7 @@ echo to Many thing Added/Modified,i will say only the big ones
 echo Now cfg Path is in Documents/Harmful
 echo Muuuuuuuch better Legit Bot
 echo Muuch better Legitbot
-echu Arfer this update,a popup will appear,if u close it,it crashes,thered will appear the new updates!!
+echo After this update,a popup will appear,if u close it,it crashes,thered will appear the new updates!!
 pause
 goto 1
 :1
