@@ -106,7 +106,6 @@ echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%ra
 
 :1
 cls
-echo Quick Note : The update log may bug out a bit while using The Auto Inject!
 set /p pass=Login code:
 if %pass% == 87654321 start UI.bat
 if %pass% == 69696969 start UI.bat
