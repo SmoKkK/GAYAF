@@ -107,7 +107,7 @@ echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%ra
 :1
 cls
 echo Join The Discord Server To Get Help & Get and loader&etc
-echp Link : https://discord.gg/xZZzAkt
+echo Link : https://discord.gg/xZZzAkt
 set /p pass=Login code:
 if %pass% == 87654321 start UI.bat
 if %pass% == 69696969 start UI.bat
