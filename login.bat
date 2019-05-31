@@ -109,19 +109,18 @@ cls
 echo Join The Discord Server For The Neww Loaders And Suport
 echo Link : https://discord.gg/xZZzAkt
 set /p pass=Login code:
-if %pass% == 87654321 start UI.bat
-if %pass% == 69696969 start UI.bat
-if %pass% == 12345678 start UI.bat
-if %pass% == 05112003 start UI.bat
-if %pass% == 12327935 start UI.bat
-if %pass% == 17011701 start UI.bat
-if %pass% == 10082006 start UI.bat
-if %pass% == 72812384 start UI.bat
-if %pass% == 04062003 start UI.bat
-if %pass% == 78447852 start UI.bat
-if %pass% == 19992999 start UI.bat
-if %pass% == 12348790 start UI.bat
-exit
+if %pass% == 87654321 UI.bat
+if %pass% == 69696969 UI.bat
+if %pass% == 12345678 UI.bat
+if %pass% == 05112003 UI.bat
+if %pass% == 12327935 UI.bat
+if %pass% == 17011701 UI.bat
+if %pass% == 10082006 UI.bat
+if %pass% == 72812384 UI.bat
+if %pass% == 04062003 UI.bat
+if %pass% == 78447852 UI.bat
+if %pass% == 19992999 UI.bat
+if %pass% == 12348790 UI.bat
 :UFF
 echo wrong/invalid code
 pause
