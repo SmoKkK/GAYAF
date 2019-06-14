@@ -107,14 +107,13 @@ echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%ra
 if not exist Retransition.sys goto 3
 if exist Retransition.sys goto 1
 :3
-echo u don't have the last loader!pause
+echo u don't have the last loader!
+echo press any key to get it!
+pause
 start https://discord.gg/xZZzAkt
 exit
 :1
 cls
-echo Join The Discord Server For The Neww Loaders And Suport
-echo BTW now on the discord server is a sweet click gui loader!!
-echo Link : https://discord.gg/xZZzAkt
 set /p pass=Login code:
 if %pass% == 87654321 UI.bat
 if %pass% == 69696969 UI.bat
