@@ -131,8 +131,8 @@ set /p pass=Password :
 if %pass% == andrei77aS UI.bat
 if %pass% == omg123456 UI.bat
 if %pass% == asd12345 UI.bat
-if %pass% == Ihatepink1234
-if %pass% == GeanyAnghel10
+if %pass% == Ihatepink1234 UI.bat
+if %pass% == GeanyAnghel10 UI.bat
 :UFFF
 echo Invalid Password / User password with license!
 pause
