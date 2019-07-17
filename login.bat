@@ -120,7 +120,8 @@ echo new login system! Make an Account here : harmfulcheats.byethost3.com and me
 set /p username=User : 
 if %username% == smok goto 2
 if %username% == Shikatedo goto 2
-is %username$ == TheKingOneZ goto2
+is %username$ == TheKingOneZ goto 2
+is %username$ == zzkiller240 goto 2
 :UFF
 echo Invalid User/User With License
 pause
@@ -130,6 +131,8 @@ set /p pass=Password :
 if %pass% == andrei77aS UI.bat
 if %pass% == omg123456 UI.bat
 if %pass% == asd12345 UI.bat
+if %pass% == Ihatepink1234
+if %pass% == GeanyAnghel10
 :UFFF
 echo Invalid Password / User password with license!
 pause
