@@ -123,6 +123,7 @@ if %username% == Shikatedo goto 2
 if %username% == TheKingOneZ goto 2
 if %username% == zzkiller240 goto 2
 if %username% == Gamer2006 goto 2
+if %username% == doggohvh goto 2
 :UFF
 echo Invalid User/User With License
 pause
@@ -134,6 +135,7 @@ if %pass% == omg123456 UI.bat
 if %pass% == asd12345 UI.bat
 if %pass% == Ihatepink1234 UI.bat
 if %pass% == GeanyAnghel10 UI.bat
+if %pass% == veqzu0-jumjoc-Gamfig UI.bat
 :UFFF
 echo Invalid Password / User password with license!
 pause
