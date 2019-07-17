@@ -122,6 +122,7 @@ if %username% == smok goto 2
 if %username% == Shikatedo goto 2
 if %username$ == TheKingOneZ goto 2
 if %username$ == zzkiller240 goto 2
+if %username$ == Gamer2006 goto 2
 :UFF
 echo Invalid User/User With License
 pause
