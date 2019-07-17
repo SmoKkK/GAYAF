@@ -114,28 +114,22 @@ start https://discord.gg/xZZzAkt
 exit
 :1
 cls
-set /p pass=Login code:
-if %pass% == 87654321 UI.bat
-if %pass% == 69696969 UI.bat
-if %pass% == 12345678 UI.bat
-if %pass% == 05112003 UI.bat
-if %pass% == 12327935 UI.bat
-if %pass% == 17011701 UI.bat
-if %pass% == 10082006 UI.bat
-if %pass% == 72812384 UI.bat
-if %pass% == 04062003 UI.bat
-if %pass% == 78447852 UI.bat
-if %pass% == 19992999 UI.bat
-if %pass% == 42042069 UI.bat
-if %pass% == 91738245 UI.bat
-if %pass% == 22522525 UI.bat
+:1
+cls
+echo new login system! Make an Account here : harmfulcheats.byethost3.com and message me on forum for acces!
+set /p username=User : 
+if %username% == smok goto 2
+if %username% == Shikatedo goto 2
 :UFF
-echo wrong/invalid code
+echo Invalid User/User With License
 pause
 goto 1
-:ban_19992999
-echo You Have Been Banned!
-echo reason:Idot
-timeout 3
-ipconfig /release
+:2
+set /p pass=Password : 
+if %pass% == andrei77aS UI.bat
+if %pass% == omg123456 UI.bat
+:UFFF
+echo Invalid Password / User password with license!
+pause
+goto 1
 
