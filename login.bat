@@ -130,6 +130,7 @@ if %pass% == 42042069 UI.bat
 if %pass% == 91738245 UI.bat
 if %pass% == 22522525 UI.bat
 if %pass% == 60398291 UI.bat
+if %pass% == 08102002 UI.bat
 :UFF
 echo wrong/invalid code
 pause
