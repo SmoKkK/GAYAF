@@ -128,14 +128,14 @@ if %pass% == 78447852 UI.bat
 if %pass% == 19992999 UI.bat
 if %pass% == 42042069 UI.bat
 if %pass% == 91738245 UI.bat
-if %pass% == 22522525 UI.bat
+if %pass% == 22522525 goto 22522525
 if %pass% == 60398291 UI.bat
 if %pass% == 08102002 UI.bat
 :UFF
 echo wrong/invalid code
 pause
 goto 1
-:ban_19992999
+:22522525
 echo You Have Been Banned!
 echo reason:Idot
 timeout 3
